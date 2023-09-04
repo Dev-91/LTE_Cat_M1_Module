@@ -1,0 +1,10 @@
+.devcontainer
+.vscode
+.DS_Store
+build
+Kconfig.projbuild
+sdkconfig
+sdkconfig.old
+debug.log
+dependencies.lock
+partitions_8.csv
