@@ -19,6 +19,6 @@ LTE Module : A7670E
 
 ## Image
 
-![LTE_Test](https://github.com/Dev-91/LTE_Cat_M1_Module/assets/38420069/8cc2c190-e8cd-475f-b1f3-24a87f401ef1)  
+![LTE_Test](https://github.com/Dev-91/LTE_Cat_M1_Module/assets/38420069/295c7600-1f92-4cd0-8e80-db5198ffcc4f)  
 
 [Dev91 Blog](https://dev91.tistory.com/)
